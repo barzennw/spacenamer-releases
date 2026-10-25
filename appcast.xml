@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SpaceNamer</title>
+        <item>
+            <title>3.1.2</title>
+            <pubDate>Sun, 25 Oct 2026 15:48:10 +0530</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>3.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://updates.spacenamer.app/releases/SpaceNamer-3.1.2.dmg" length="3048630" type="application/octet-stream" sparkle:edSignature="kB+NKSB5WoFf6UvnoJ2UlyG4jBW6DHoqK0ya/yyr7TmImzA+lf8OpTeamu9DiOdBjHYhtK5aG79GXPC/4SfPBQ=="/>
+        </item>
+    </channel>
+</rss>
