@@ -3,6 +3,20 @@
     <channel>
         <title>SpaceNamer</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Wed, 28 Oct 2026 21:23:31 +0530</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://updates.spacenamer.app/releases/SpaceNamer-1.0.4.dmg" length="3092069" type="application/octet-stream" sparkle:edSignature="7FvdOYp7+MhPcWJTIQEscEN30TYjFRojnDIcxlQmI2DrNdC4PbabFT/QRU/1Gq0b8ndQunACs//u1Q5QpbhoAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://updates.spacenamer.app/releases/SpaceNamer30-29.delta" sparkle:deltaFrom="29" length="57790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EBkzA/+Pis/fUnMjS2vPA8EmjFK13FSJDbfdMs3PWGNQRK0txzZT2OpIMLQ7NQD+Nd2Jvb36dO1PisU4UH8WDQ=="/>
+                <enclosure url="https://updates.spacenamer.app/releases/SpaceNamer30-27.delta" sparkle:deltaFrom="27" length="85250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rT1XepLoz3/reG45By803vG1/A2byCsDWv1FjblUsdZssc004sZiwqJSVn8H+9QLb7KuZnlX0Yk5wFZHy0OwCQ=="/>
+                <enclosure url="https://updates.spacenamer.app/releases/SpaceNamer30-26.delta" sparkle:deltaFrom="26" length="88306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rWkiZk09F/0LYP6gbMzr+h6OOXXcFAbC9mRgX3Hzzi6Q/6JXPU429eRlVTOuj6bw64+j7SwS3q1w0xL+FMouBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Tue, 27 Oct 2026 19:20:05 +0530</pubDate>
             <sparkle:version>29</sparkle:version>
@@ -26,15 +40,6 @@
             <sparkle:deltas>
                 <enclosure url="https://updates.spacenamer.app/releases/SpaceNamer27-26.delta" sparkle:deltaFrom="26" length="46350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3WcCir58lPC3GjVgLlP9EDmL1/P34Te4iVKjQgo64aeGymCWHOBvTv+iJwD6yyE+rEnhPpZTZpyebohj8vVbCw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 26 Oct 2026 11:33:14 +0530</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://updates.spacenamer.app/releases/SpaceNamer-1.0.dmg" length="3059123" type="application/octet-stream" sparkle:edSignature="RE/vkQKHbonED7Y3VyV3PNcgPKv/GSy2AJG7oW91ifPYxk5DuDg73dsuMRfWi4g8PiaGe4lfqc2bY3dxwCvcDw=="/>
         </item>
     </channel>
 </rss>
